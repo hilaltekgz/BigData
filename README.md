@@ -10,6 +10,5 @@ Tweet'in tarihi (16 Mayıs Cumartesi 23: 58:44 UTC 2021)
 Sorgu (lyx). Sorgu yoksa bu değer NO_QUERY'dir. 
 Tweet atan kullanıcı (robotickilldozr)
 Tweet metni (Lyx iyidir)
-![image](https://user-images.githubusercontent.com/62748526/159995213-9228a9b6-6350-4256-bcd9-f7d3ea476898.png)
 
 ![image](https://user-images.githubusercontent.com/62748526/159995103-2504c329-4bac-43ba-a4e6-aab4ecb27f5f.png)
